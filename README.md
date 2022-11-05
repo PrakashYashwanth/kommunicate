@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Kommunicate App
+
+In this app, the user can enter the inputs in the input box and the respective text is shown below the input box based on the response from the api
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
