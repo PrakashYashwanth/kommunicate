@@ -2,6 +2,22 @@
 
 In this app, the user can enter the inputs in the input box and the respective text is shown below the input box based on the response from the api
 
+The following App Id's will give response as shown below
+
+1 -> {
+id : 1,
+success : "true"
+}
+
+2 -> {
+id : 1,
+success : "false"
+}
+
+any other Id than the above two is not a valid ID and result in API failure error
+
+The text is shown as per these responses
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
